@@ -1,0 +1,11 @@
+* { font: 17px arial; 
+} 
+        table {
+             width: 70%; 
+            }
+        table, th, td
+         { border: solid 1px rgb(26, 6, 6);
+            border-collapse: collapse;
+             padding: 2px 3px; 
+             text-align: center;
+        }
